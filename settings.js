@@ -4,7 +4,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "233599662889"
+global.ownernomer = "263712473551"
 global.ownername = "❦★𝘿𝘼𝙍𝙆★❦†𝙕𝙀𝙍𝙊𝘾𝙊𝙊𝙇†𓃵"
 global.ytname = "Jayden01"
 global.socialm = "GitHub: ZeroCool"
